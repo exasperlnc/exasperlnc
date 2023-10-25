@@ -1,7 +1,7 @@
 ![logan cole banner](https://user-images.githubusercontent.com/112587650/254411530-d5c0e083-5642-4032-a969-431f973db5a0.gif)
 
-<h3 align="center"> Welcome! I'm, Logan, and you're watching Disney Channel</h3>
-<p align="center"> I've been a math TA, taught a coding course, and worked in the healthcare field. Now I'm a Software Developer. </p>
+<h3 align="center"> Welcome! I'm, Logan, and you're watching Disney Channel ✨ ✨ </h3>
+<p align="center"> I've been an educator and worked in the healthcare field. Now I'm a Software Developer. </p>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-<h2>✨ Skills and Interest ✨</h2>
+<h2> Skills and Interest </h2>
 
 - Back End Development <br>
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://ruby-lang.org)
