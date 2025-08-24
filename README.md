@@ -1,5 +1,3 @@
-![logan cole banner](https://user-images.githubusercontent.com/112587650/254411530-d5c0e083-5642-4032-a969-431f973db5a0.gif)
-
 <h3 align="center"> Welcome! I'm Logan, and you're watching Disney Channel ✨ ✨ </h3>
 <p align="center"> I've been an educator and worked in the healthcare field. Now I'm a Software Developer. </p>
 
