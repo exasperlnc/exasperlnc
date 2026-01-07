@@ -12,7 +12,7 @@
 </p>
 
 <br>
-<p align="center">I'm currently working with a startup called tableaura, creating an application for restaurants to incentivise customers to come in on slower days. We expect to launch this year (2025) so I'll add relevant links once we're live! </p>
+<p align="center">I'm currently working with a startup called tableaura, creating an application for restaurants to incentivise customers to come in on slower days. We expect to launch this year (2026) so I'll add relevant links once we're live! </p>
 
 <h2> Projects <h2>
   
